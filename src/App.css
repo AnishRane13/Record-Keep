@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  color:#2f3640;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1{
+  margin: 0;
+}
+.header{
+  background-color: #192a56;
+  color:#dcdde1 ;
+  padding: 14px;
+  width: 100%;
+}
+.form{
+  margin-top: 20px;
+}
+.data{
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+}
+.data_val{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  padding:0px 9px 0px 9px;
+  box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+  /* background-color: #c7ecee ; */
+}
